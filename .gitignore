@@ -1,0 +1,39 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django database
+db.sqlite3
+
+# Environment files
+.env
+*.env
+
+# VSCode settings
+.vscode/
+
+# Virtual environment
+venv/
+.venv/
+
+# Static and media files (if generated or uploaded)
+staticfiles/
+media/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python egg & build files
+build/
+dist/
+*.egg-info/
+
+# Backup files
+*.bak
+*.tmp
+*.swp
